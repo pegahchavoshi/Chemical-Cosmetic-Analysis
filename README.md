@@ -3,8 +3,11 @@
 # Introduction
 Cosmetics have become a part of our lives worldwide, used by people of all ages and backgrounds. The variety of cosmetic products available has grown significantly, offering more choices than before. However, this growth has brought up concerns about the ingredients used in these products.
 
-# Overview
+# Dashboard Overview
 In this project, I focus on cosmetics and the chemicals they contain. My goal is to understand the potential health risks associated with certain chemicals found in cosmetics. I analyzed data from the California Safe Cosmetics Act over several years to shed light on the presence of harmful chemicals in different types of cosmetics.
+
+<img width="1107" alt="Dashboard-Report" src="https://github.com/pegahchavoshi/Chemical-Cosmetic-Analysis/assets/94572320/e50eb6fd-6d11-4007-ae0f-65f3aeb0e212">
+
 
 # Problem
 Cosmetic ingredients can be complex and not always well understood. This lack of knowledge can lead to using products that might have harmful chemicals, without us realizing it. This raises worries about our health and well-being.
