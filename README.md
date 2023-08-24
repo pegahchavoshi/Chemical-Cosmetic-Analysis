@@ -18,7 +18,7 @@ To tackle this issue, I've used data analysis. I've taken advantage of the infor
 # Results
 My analysis has revealed interesting insights. I've found trends in the reporting of chemicals over time, suggesting improvements in product safety. Moreover, I've identified specific companies and brands associated with higher levels of potentially harmful ingredients. This knowledge empowers consumers to be smarter about their cosmetic choices. This project is all about giving people the facts they need to make safer decisions
 
-# Methodology:
+# Methodology
 I've relied on the data from the California Safe Cosmetics Act, which gives us a clear picture of the chemicals used in cosmetics. By digging into this data, I've uncovered patterns and connections between ingredients. Using graphs and charts, I've made this complex information easy to understand. My approach involves sorting through information, analyzing it, and presenting it in a way that benefits everyone.
 
 
